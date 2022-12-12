@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        ".dockerignore": true,
+        ".vscode": true,
+        "**/__pycache__": true,
+        "Dockerfile": true,
+        "requirements.txt": true
+    }
+}
